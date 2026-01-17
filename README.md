@@ -1,2 +1,2 @@
 # LangchainMCP
-A hands-on exercise for MCP
+A hands-on exercise for MCP. Try it.
